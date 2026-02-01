@@ -1,2 +1,2 @@
 # Hygate Prefabs
-Prefabs like portal gateways and buildings related to Hygate for Hytale.
+Prefabs like portal gateways and buildings related to Hygate.
